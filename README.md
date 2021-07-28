@@ -1,2 +1,1 @@
-# rhacs-kustomization
-Kustomization for deploying Red Hat Advanced Cluster Security for Kubernetes 
+# Kustomization for Deploying Red Hat Advanced Cluster Security for Kubernetes 
