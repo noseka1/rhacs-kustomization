@@ -13,8 +13,8 @@ spec:
     env:
     # HTTP proxy settings
     - name: HTTP_PROXY
-      value: ""
+      value: ''
     - name: HTTPS_PROXY
-      value: ""
+      value: ''
     - name: NO_PROXY
-      value: ""
+      value: ''
